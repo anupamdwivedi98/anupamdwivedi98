@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi, I'm Anupam Dwivedi 👋
 
-<!--
-**anupamdwivedi98/anupamdwivedi98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Data Science & Generative AI  
+💻 Python Developer  
+📊 Building real-world AI & backend projects  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack
+- Python
+- Machine Learning
+- Generative AI
+- Spring Boot
+- Kafka
+- REST APIs
+
+---
+
+## 📌 Projects
+- 🔹 JP Morgan Backend Simulation (Spring Boot + Kafka)
+- 🔹 AI Career Copilot (NEXA AI)
+- 🔹 Fake News Detection (ML Project)
+
+---
+  
+## 📫 Connect with me
+- LinkedIn: (https://www.linkedin.com/in/anupam-dwivedi-41b561270)
